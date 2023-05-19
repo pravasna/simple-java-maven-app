@@ -19,3 +19,5 @@ the "Deliver" stage of your Pipeline.
 ```text
 Use the echo plugin display more information about the build
 ```
+
+### Test for excluding markdown files in Jenkins
